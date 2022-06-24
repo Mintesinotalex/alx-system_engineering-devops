@@ -1,1 +1,1 @@
-first readme for script
+shell permission
